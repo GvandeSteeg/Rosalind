@@ -20,7 +20,8 @@ def build_matrix(*fasta_seqs: Text) -> dict:
             matrix[fasta[i]][i] += 1
     return matrix
 
-# add comment
+# add commentkdkjd
+# addlkekeiek
 
 
 def read_consensus(cons_matrix: dict) -> str:
